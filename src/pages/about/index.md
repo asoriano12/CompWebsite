@@ -1,19 +1,17 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About our origins
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### How the Growth philosophy started
+The Growth philosophy was started when our founder was at home watching a baseball game. Over time the founder realized that a really good hitter only gets on base 30% of the time! That means they 
+fail the other 70% of the time but how do they have the courage to go back up to the plate when they fail this much?
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Success can be mentally driven
+Hall of Famer Yogi Berra once said "Baseball is 90 percent mental. The other half is physical." The growth philosphy takes this quote and relates it to real life. By staying positive you have a higher chance of achieving your goals.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Supportive surrounding promote success
+Baseball is a team game. Having supportive teammates can help you reach your goals. Think about being a pitcher and having good fielders to back you. A similar idea can be used when trying to achieve your goals. Pick good teammates.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Feed from your passion
+A lot of ballplayers don't play for the money but instead just for a love of the game. This helps them achieve their goals by actually enjoying what they're doing. By having a passion for what you are doing you are more likely to achieve your goals.

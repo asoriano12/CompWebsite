@@ -30,8 +30,8 @@ export const ProductPageTemplate = ({
       <h2
         className="has-text-weight-bold is-size-1"
         style={{
-          boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-          backgroundColor: '#f40',
+          boxShadow: '0.5rem 0 0 #92140C, -0.5rem 0 0 #92140C',
+          backgroundColor: '#92140C',
           color: 'white',
           padding: '1rem',
         }}
@@ -43,28 +43,40 @@ export const ProductPageTemplate = ({
       <div className="container">
         <div className="section">
           <div className="columns">
-            <div className="column is-7 is-offset-1">
+            <div className="column is-10 is-offset-1">
               <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
-              <p>{description}</p>
+              <p style={{ fontSize: '1.5em'}}>{description}</p>
             </div>
           </div>
           <div className="columns">
             <div className="column is-10 is-offset-1">
-              <Features gridItems={intro.blurbs} />
+              {/* <Features gridItems={intro.blurbs} /> */}
+              <br></br>
               <div className="columns">
-                <div className="column is-7">
+                <div className="column is-10">
                   <h3 className="has-text-weight-semibold is-size-3">
                     {main.heading}
                   </h3>
-                  <p>{main.description}</p>
+                  <p style={{ fontSize: '1.5em'}}>{main.description}</p>
                 </div>
               </div>
+              <br></br>
+              <br></br>
+              <br></br>
               <div className="tile is-ancestor">
                 <div className="tile is-vertical">
                   <div className="tile">
                     <div className="tile is-parent is-vertical">
                       <article className="tile is-child">
-                        <PreviewCompatibleImage imageInfo={main.image1} />
+                        <p style={{ fontSize: '1.5em'}}>
+                          There is a name for all of this failing and trying again. It's known as <strong>Resilience</strong>!
+                          According to google, the exact definition of Resilience is "the capacity to recover 
+                          quickly from difficulties; toughness." Professor David Isaacs in his article about 
+                          resilience within the Journal of pediatrics and Child Health talks about how resilience
+                          can be learned through trial and error. An important thing to note though is that people 
+                          also need time to heal.
+
+                        </p>
                       </article>
                     </div>
                     <div className="tile is-parent">
@@ -73,29 +85,24 @@ export const ProductPageTemplate = ({
                       </article>
                     </div>
                   </div>
+                  <br></br>
+                  <br></br>
+                  <br></br>
                   <div className="tile is-parent">
                     <article className="tile is-child">
-                      <PreviewCompatibleImage imageInfo={main.image3} />
+                      <h3 className="has-text-weight-semibold is-size-3">Healing after failures</h3>
+                      <p style={{ fontSize: '1.5em'}}>
+                        Whilst failure is normal, it can definitely be tough in large amounts! Even in the world of
+                        baseball the greatest hitters go into slumps. The great baseball player Hank Aaron once said
+                        "My motto was always to keep swinging. Whether I was in a slump or feeling badly or having 
+                        trouble off the field, the only thing to do was keep swinging." It's also important to 
+                        keep in mind that by failing you are building your resilience for the next time!
+                      </p>
                     </article>
                   </div>
                 </div>
               </div>
-              <Testimonials testimonials={testimonials} />
-              <div
-                className="full-width-image-container"
-                style={{
-                  backgroundImage: `url(${
-                    fullImage.childImageSharp
-                      ? fullImage.childImageSharp.fluid.src
-                      : fullImage
-                  })`,
-                }}
-              />
-              <h2 className="has-text-weight-semibold is-size-2">
-                {pricing.heading}
-              </h2>
-              <p className="is-size-5">{pricing.description}</p>
-              <Pricing data={pricing.plans} />
+              
             </div>
           </div>
         </div>

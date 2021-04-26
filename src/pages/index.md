@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: A Forward Thinking Philosophy
+title:  The Growth Philosophy
 image: /img/baseballbanner.jpg
 heading: Consistently meet your goals
-subheading: A Philosophy based on baseball and the world around it
+subheading: A Philosophy based on baseball
 mainpitch:
   title: Why the Growth Philosphy?
   description: >

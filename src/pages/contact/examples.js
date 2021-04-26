@@ -65,6 +65,8 @@ export default class Index extends React.Component {
                     because everyone deals with fear, but this is an ideal way to think about fear and flip it into a positive
                     thing.
                   </p>
+                  <br></br>
+                  <br></br>
                   <h3 className="has-text-weight-semibold is-size-2">Utilize Self Regulation</h3>
                   <p style={{ fontSize: '1.5em'}}>
                     In both the Prediction of Academic Procrastination by Fear of Failure and Self-Regulation study and The Complexity

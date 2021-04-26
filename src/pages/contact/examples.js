@@ -33,7 +33,7 @@ export default class Index extends React.Component {
                   <p style={{ fontSize: '1.5em'}}>
                     It is commonly talked about how much of a mental game baseball is. Being afraid is not really
                     an option because if it. If you start having doubts in yourself you are less likely to succeed.
-                    The website QCBaseball.com provides a perfect example if this. They stated "By focusing on the result"
+                    The website QCBaseball.com provides a perfect example if this. They stated "By focusing on the result
                     and thinking about the negative aspect of failing, theplayer is setting himself up to accomplish the exact 
                     thing he is most fearful of." 
                   </p>
@@ -64,6 +64,14 @@ export default class Index extends React.Component {
                     who you are today into who you want to be tomorrow." This quote obviously resonates with a lot of people
                     because everyone deals with fear, but this is an ideal way to think about fear and flip it into a positive
                     thing.
+                  </p>
+                  <h3 className="has-text-weight-semibold is-size-2">Utilize Self Regulation</h3>
+                  <p style={{ fontSize: '1.5em'}}>
+                    In both the Prediction of Academic Procrastination by Fear of Failure and Self-Regulation study and The Complexity
+                    of the Relation between Fear of Failure and Procrastination study the psychologists found direct correlations between
+                    procrastination and self regulation. This procrastination could be what's delaying you from reaching your goals but why?
+                    This may be due to you fearing failure but by treating failure as a learning experience it doesn't become as scary. Then 
+                    all you have to do is regulate yourself to work on your goal and you are on track!
                   </p>
                 </div>
               </div>
